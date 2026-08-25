@@ -1,0 +1,31 @@
+company_short,year,scope_1_emissions_tco2e,scope_2_emissions_tco2e,scope_3_emissions_tco2e,total_emissions_tco2e,energy_consumption_mwh,renewable_energy_percent,waste_tonnes,recycling_percent,esg_notes
+ASOS,2019,,,,236720.0,,,,,total/operational carbon emissions = 236720.0 tco2e; 
+ASOS,2020,2955.0,11084.0,23.0,,50451.739,75.0,,,energy consumption = 50451739.0 kwh; scope 1 emissions = 2955.0 tco2e; scope 2 emissions = 11084.0 tco2e; scope 3 emissions = 23.0 tco2e; renewable energy percentage = 75.0 %; 
+ASOS,2021,3602.0,11338.0,18.0,14958.0,55873.228,,,,energy consumption = 55873228.0 kwh; scope 1 emissions = 3602.0 tco2e; scope 2 emissions = 11338.0 tco2e; scope 3 emissions = 18.0 tco2e; total/operational carbon emissions = 14958.0 tco2e; 
+ASOS,2022,3351.0,11497.0,,14848.0,59433.989,,,,scope 1 emissions = 3351.0 tco2e; energy consumption = 59433989.0 kwh; scope 2 emissions = 11497.0 tco2e; total/operational carbon emissions = 14848.0 tco2e; 
+ASOS,2023,,,,,,,,,
+ASOS,2024,,,,,,,,,
+BOOHOO,2019,,,,,,,65.0,,waste/recycling amount = 65.0 tonnes; 
+BOOHOO,2020,,,,,,,,,renewable energy percentage = 100.0 %; 
+BOOHOO,2021,,,,,,,,,
+BOOHOO,2022,,,,,,,,,
+BOOHOO,2023,,,,,,,,,
+BOOHOO,2024,,,,,,,2.6,,waste/recycling amount = 2.6 tonnes; 
+JD,2019,,,,,,85.0,4756.0,98.0,renewable energy percentage = 85.0 %; waste/recycling amount = 4756.0 tonnes; recycling/recycled percentage = 98.0 %; 
+JD,2020,,,,,,,5491.0,,waste/recycling amount = 5491.0 tonnes; 
+JD,2021,,,,,,,5173.0,,waste/recycling amount = 5173.0 tonnes; 
+JD,2022,,,,,,,5638.0,98.8,waste/recycling amount = 5638.0 tonnes; recycling/recycled percentage = 98.8 %; 
+JD,2023,,,,,,,5219.0,,waste/recycling amount = 5219.0 tonnes; 
+JD,2024,,,,,,,,,
+MKS,2019,,,,,,,,,
+MKS,2020,,,,,,,,,
+MKS,2021,,,,,,,5000.0,,waste/recycling amount = 5000.0 tonnes; 
+MKS,2022,,,,,,,,,
+MKS,2023,,,,,,,,,
+MKS,2024,,,,,,,,,
+NEXT,2019,46911.0,70693.0,,,,,,,scope 1 emissions = 46911.0 tco2e; scope 2 emissions = 70693.0 tco2e; 
+NEXT,2020,45739.0,60440.0,,,,,,,scope 1 emissions = 45739.0 tco2e; scope 2 emissions = 60440.0 tco2e; 
+NEXT,2021,36914.0,,,,,100.0,,,scope 1 emissions = 36914.0 tco2e; renewable energy percentage = 100.0 %; 
+NEXT,2022,42616.0,,,,,,,95.0,scope 1 emissions = 42616.0 tco2e; recycling/recycled percentage = 94.0 %; recycling/recycled percentage = 95.0 %; 
+NEXT,2023,43165.0,,,,,,,95.0,scope 1 emissions = 43165.0 tco2e; recycling/recycled percentage = 95.0 %; 
+NEXT,2024,44001.0,,,,,,,96.0,scope 1 emissions = 44001.0 tco2e; recycling/recycled percentage = 96.0 %; 

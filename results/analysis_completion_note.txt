@@ -1,0 +1,23 @@
+
+Final analysis completed.
+
+This notebook includes:
+1. PDF text extraction and cleaning
+2. VADER sentiment analysis
+3. BERTopic topic modelling
+4. Manual ESG data extraction support
+5. Final ESG company-year dataset
+6. Merged NLP + ESG analysis dataset
+7. Descriptive statistics
+8. VADER vs ESG correlation analysis
+9. ESG topic proportion analysis
+10. ESG topic proportion vs ESG indicator correlation analysis
+11. Exploratory linear regression analysis
+12. Mann-Whitney U test
+13. Visual analysis of sentiment, ESG topic coverage and ESG indicators
+14. Cautious summary of main findings
+
+Important methodological note:
+The ESG indicators used in this notebook are company-disclosed quantitative environmental indicators extracted from annual reports. They are not independent third-party ESG ratings. Therefore, the analysis compares narrative disclosure language and topic coverage with company-reported environmental indicators.
+
+The analysis is exploratory because ESG data availability is incomplete and inconsistent across companies and years. The findings should be interpreted as potential greenwashing-risk indicators and disclosure-performance misalignment signals, not as proof of greenwashing.

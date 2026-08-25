@@ -1,0 +1,2 @@
+test,grouping_variable,comparison_variable,group_1,group_1_observations,group_1_median_vader,group_2,group_2_observations,group_2_median_vader,u_statistic,p_value
+Mann-Whitney U test,esg_topic_proportion,vader_compound,Low ESG topic coverage,15,0.8913112359550562,High ESG topic coverage,15,0.8505641975308642,193.0,0.0009058485425290966

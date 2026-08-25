@@ -1,0 +1,2 @@
+test,dependent_variable,independent_variable,observations,intercept,slope_coefficient,r_value,r_squared,p_value,standard_error
+Linear regression,vader_compound,esg_topic_proportion,30,0.9116480117758126,-0.2677722557135474,-0.4775496474625962,0.22805366579164993,0.007614077117021882,0.09310255238519852

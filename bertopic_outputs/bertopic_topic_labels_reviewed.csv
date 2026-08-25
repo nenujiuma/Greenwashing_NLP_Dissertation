@@ -1,0 +1,63 @@
+topic_id,top_10_words,manual_topic_label,is_environmental_or_esg_topic,is_possible_esg_topic
+0,"remuneration, performance, executive, committee, bonus, salary, directors, executive directors, awards, pay",Executive remuneration and pay,NO,No
+1,"impairment, assets, million, value, group, assumptions, acquisition, goodwill, period, cash","Impairment, assets and goodwill",NO,No
+2,"company, shares, resolution, authority, ordinary, agm, directors, share, ordinary shares, securities",Shareholder resolutions and AGM,NO,No
+3,"hedging, hedge, foreign, currency, hedged, fair value, fair, rate, value, hedges",Hedging and foreign currency risk,NO,No
+4,"lease, leases, right use, payments, asset, right, lease liability, use, lease payments, liability",Lease accounting,NO,No
+5,"sales, online, margin, jan, year, growth, price sales, customers, costs, total","Sales, margin and customers",NO,No
+6,"stores, jd, sports, fashion, sports fashion, store, million, group, period, new",Stores and retail expansion,NO,No
+7,"risk, risks, internal, committee, management, business, controls, audit, risk management, internal audit",Risk management and internal audit,NO,No
+8,"tax, deferred tax, deferred, income, share, recognised, shares, assets, ordinary, taxable",Tax and deferred tax,NO,No
+9,"board, committee, executive, directors, non executive, meetings, director, chairman, non, senior",Board and committee governance,NO,No
+10,"climate, risks, climate related, risk, related, related risks, emissions, esg, opportunities, scenario",Climate risk and ESG reporting,Yes,Yes
+11,"risk, business, impact, supply, group, risks, supply chain, chain, mitigating, covid",Business and supply chain risk,Yes,Yes
+12,"suppliers, supply, workers, factories, chain, supply chain, ethical, human, rights, human rights",Ethical supply chain and human rights,Yes,Yes
+13,"plan, pension, scheme, benefit, defined, 2013, 2013 plan, defined benefit, retirement, original plan",Pension scheme,NO,No
+14,"fair, group, financial, cash, fair value, value, instruments, rate, liabilities, financial instruments",Financial instruments and fair value,NO,No
+15,"receivables, credit, past, cii, days past, days, risk band, band, trade, risk",Credit risk and receivables,NO,No
+16,"recycled, cotton, products, water, materials, plastic, product, waste, sustainable, packaging",Sustainable materials and packaging,Yes,Yes
+17,"director, executive, executive director, non executive, experience, appointed, chief, non, plc, board",Board and director experience,No,No
+18,"share, earnings, shares, cash, weighted average, average, earnings share, weighted, tax, january",Earnings per share and taxation,No,No
+19,"ocado, adjusting, items, ocado retail, adjusting items, retail limited, group, retail, limited, costs",Ocado retail and adjusting items,No,No
+20,"emissions, energy, scope, carbon, renewable, electricity, data, based, gas, reporting",Emissions and energy reporting,Yes,yes
+21,"recognised, income, fair value, value, fair, cost, financial, amortised, amortised cost, asset",Financial assets and amortised cost,No,No
+22,"food, customers, colleagues, clothing, home, business, clothing home, growth, store, report",Retail operations and customers,No,No
+23,"report, audit, statements, financial statements, material, directors, financial, fraud, material misstatement, misstatement",Audit and financial statements,No,No
+24,"asos, customers, fashion, customer, asos plc, report, brands, product, brand, plc annual",ASOS brand and customers,No,No
+25,"grant, price, nil, 00, shares, options, volatility, 06, 10, years",Share options and grants,No,No
+26,"viability, group, assessment, concern, period, going concern, business, financial, going, risks",Going concern and viability,No,No
+27,"crest, proxy, voting, meeting, vote, agm, website, shareholders, questions, question",Proxy voting and AGM process,No,No
+28,"assets, recognised, value, software, group, costs, income, cost, asset, impairment","Assets, software and impairment",No,No
+29,"asos, cash, share, company, financial, limited, 31, 31 august, financial statements, statements",ASOS company financial statements,No,No
+30,"materiality, audit, components, group, statements, scope, financial statements, performed, financial, procedures",Audit materiality and scope,No,No
+31,"food, ocado, customers, online, clothing, customer, home, ocado retail, store, clothing home","Food, clothing and online retail",No,No
+32,"sales, total, profit, segment, statutory, retail, total sales, finance, revenue, online","Sales, profit and segment revenue",No,No
+33,"statements, financial statements, financial, company, parent company, parent, accordance, group, audit, accounting",Parent company financial statements,No,No
+34,"shares, share, plan, company, awards, trust, year, options, granted, employees",Share awards and employee options,No,No
+35,"customers, product, brand, customer, fashion, business, brands, growth, new, best","Brand, product and customer growth",No,No
+36,"audit, non audit, auditor, committee, external auditor, external, audit services, pwc, services, independence",External audit and auditor independence,No,No
+37,"bury, uk hollinsbrook, bury lancashire, way pilsworth, bl9, bl9 8rr, hollinsbrook way, pilsworth, pilsworth bury, 8rr",Company address and registration details,No,No
+38,"emissions, carbon, zero, climate, energy, net zero, scope, targets, environmental, sustainability","Net zero, emissions and sustainability targets",Yes,Yes
+39,"fraud, audit, laws, laws regulations, regulations, non compliance, procedures, compliance, report, statements","Fraud, laws and regulatory compliance",No,No
+40,"inventory, provision, management, audit, key, provisions, group, key audit, judgement, model",Inventory provisions and audit judgement,No,No
+41,"100, limited, spencer, marks, marks spencer, road, ordinary 100, ordinary, 4at uk, 4at",Marks and Spencer company details,No,No
+42,"million, cash, boohoo, 000, 000 000, share, boohoo group, limited, 2020, com",Boohoo company financial details,No,No
+43,"foundation, young, young people, people, charity, support, charities, jd foundation, youth, jd","Charity, foundation and community support",Yes,Yes
+44,"committee, board, audit, internal, management, risk, meetings, audit committee, external, executive","Board, audit and risk committee",No,No
+45,"esg, climate, committee, risks, related, climate related, strategy, governance, risks opportunities, opportunities",ESG governance and climate risk,Yes,Yes
+46,"rent, store, lease, stores, sales, retail, online, years, renewals, costs","Rent, stores and lease costs",NO,No
+47,"cash, net, capital, year, net cash, cash flow, flow, assets, financial, activities",Cash flow and financial activities,NO,No
+48,"option, option price, million, acquire, 31 january, sports, january, options, ended 31, jd sports",Share options and acquisition details,NO,No
+49,"board, engagement, stakeholder, business, pages, employees, workforce, customers, stakeholders, 172",Stakeholder and workforce engagement,NO,No
+50,"colleagues, people, support, diversity, employees, gender, mental, health, wellbeing, female","Employees, diversity and wellbeing",Yes,Yes
+51,"pro, statutory, measures, sales, ng, tax, joules, profit, items, alternative performance",Alternative performance measures,NO,No
+52,"asosers, asos, people, learning, apprenticeship, programme, new, talent, launched, support","ASOS people, learning and apprenticeships",yes,Yes
+53,"board, committee, diversity, gender, senior, candidates, ethnic, experience, skills, female",Board diversity and gender representation,No,No
+54,"audit, going concern, concern, going, key audit, matters, statements, material, financial statements, key",Going concern and key audit matters,No,No
+55,"liabilities, assets, cash, financial, current, payables, trade, non, financial assets, total","Assets, liabilities and payables",No,No
+56,"ifrs, amendments, accounting, ias, financial, group, standards, financial statements, statements, estimates",IFRS and accounting standards,No,No
+57,"safety, health safety, health, compliance, risk, group, regulatory, business, legal, team","Health, safety and regulatory compliance",Yes,Yes
+58,"february, 28, 28 february, book value, net book, manchester 100, book, st, st manchester, dale st",Property and book value details,NO,No
+59,"jd, communities, people, report, group, esg, sports, sports fashion, board, colleagues","JD communities, ESG and colleagues",Yes,Yes
+60,"pension, salary, lord wolfson, lord, wolfson, db, pensionable, contribution, supplement, service",Pension and salary contribution,No,No
+,,,,

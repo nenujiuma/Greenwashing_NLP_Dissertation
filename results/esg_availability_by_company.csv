@@ -1,0 +1,6 @@
+company_short,scope_1_emissions_tco2e,scope_2_emissions_tco2e,scope_3_emissions_tco2e,total_emissions_tco2e,energy_consumption_mwh,renewable_energy_percent,waste_tonnes,recycling_percent
+ASOS,3,3,2,3,3,1,0,0
+BOOHOO,0,0,0,0,0,0,2,0
+JD,0,0,0,0,0,1,5,2
+MKS,0,0,0,0,0,0,1,0
+NEXT,6,2,0,0,0,1,0,3
